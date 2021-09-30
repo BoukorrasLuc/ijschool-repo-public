@@ -40,7 +40,6 @@
  - cors
  - dotenv
  - express
- - react-select 
  - mongoose
  - firebase-functions
 
